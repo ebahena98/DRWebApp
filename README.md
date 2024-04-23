@@ -1,6 +1,8 @@
 GITHUB: https://github.com/techwithtim/Django-React-Full-Stack-App
 UTUBE: https://www.youtube.com/watch?v=c-QsfbznSXI
 
+LEFT OFF FROM VIDEO @ 1:31:18
+
 Virtualization Environment
 Creates the environment (a folder in your current directory)
 
